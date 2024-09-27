@@ -18,7 +18,7 @@ The circuit consists of a 10V DC voltage source and four resistors in series:
 
 The output voltage is measured at three different points labeled as `Vout_1`, `Vout_2`, and `Vout_3`.
 
-![Schematic Diagram](/lab1/lab1_schematics.PNG)  
+![Schematic Diagram](lab1_schematics.PNG)  
 
 
 ## 3. Theoretical Analysis
