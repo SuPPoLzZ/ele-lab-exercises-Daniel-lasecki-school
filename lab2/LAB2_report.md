@@ -54,7 +54,10 @@
 
 
 **Schematic Diagram:**
-(Insert LTSpice schematic for this task)
+![capacitator](elelab2_task3_capacitator.PNG) 
+
+**Schematic Diagram:**
+![inductor](elelab2_task3_inductor.PNG) 
 
 ---
 
