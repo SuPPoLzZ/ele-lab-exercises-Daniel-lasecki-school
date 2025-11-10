@@ -1,27 +1,47 @@
-# ELE_Lab_exercises
+# Electronics Labs
 
+This repository contains my lab exercises and related materials from the **Electronics course**.  
+It was originally hosted on GitLab and has been mirrored here to my personal GitHub account for reference, documentation, and portfolio purposes.
 
-This repository contains/will contain lab exercises for TUAS Electronics (for embedded SW) course. 
+---
 
-Please, make a fork of this repository and share it to your teacher, <b>jarno.tuominen</b> with <b>reporter</b> rights.
+## 📘 Overview
 
+The course focused on the **fundamentals of electronics** — covering both theoretical and practical aspects of **analog and digital circuit design**.  
+The labs involved building, testing, and analyzing circuits while learning to use various measurement tools and simulation software.
 
-The actual lab instructions are found in Class Notebook (MS OneNote), which you can access through the Teams-team of this course.
+---
 
-https://tuas365.sharepoint.com/sites/EleLabs_PTIVIS17/_layouts/15/Doc.aspx?sourcedoc={75b61e43-5050-4e22-b01b-93ee2bebbc91}&action=edit&wd=target%28_Content%20Library%2FLAB%20Instructions.one%7C935d0d90-f949-4901-a2cb-d92cafc67792%2F%29&wdorigin=717
+## 🧠 Learning Goals
 
+- Understand and apply **Ohm’s Law**, **Kirchhoff’s Laws**, and basic circuit analysis  
+- Learn about **resistors, capacitors, diodes, transistors, and operational amplifiers**  
+- Build and measure circuits using **breadboards and lab instruments**  
+- Interpret oscilloscope and multimeter data  
+- Gain experience with **SPICE simulation tools** and documentation practices  
+- Strengthen hands-on problem-solving skills in electronics
 
+---
 
+## ⚙️ Tools & Equipment
 
-Generally, for each lab exercise, you are supposed to:
+- **Simulation Software:** LTspice
+- **Measurement Tools:** Oscilloscope(pico scope 4000-series), Multimeter, Function Generator, Power Supply
+- **Hardware Components:** Resistors, capacitors, diodes, BJTs, op-amps, etc.  
+- **Documentation:** Circuit diagrams, screenshots, measurement data, lab reports
 
-1. Create the schematics and calculate / write down the required component values and expected voltages/currents as stated in the lab instruction.
-2. Simulate your design with LTSpice and write down the simulation results. Compare those with calculated values.
-3. Measure your design and compare the values with calculated and simulation values.
+---
 
-When submitting lab notebooks/reports, use the file format, which is viewable with web browser in git. These include: PDF, plain text, .md markup. 
+## 🧪 Lab Instructions
 
-MS Office or Open Office documents (.doc, .docx, .odt, .odf) cannot be rendered by web browsers, which makes them pretty slow to read through, as they need to be downlaoded first.
+Each lab consists of:
+1. **Pre-lab preparation** — circuit design, component calculations, and simulation  
+2. **Lab work** — building and testing the circuit on a breadboard or simulator  
+3. **Measurements and analysis** — collecting oscilloscope data and interpreting results  
+4. **Post-lab report** — summarizing findings, results, and conclusions  
 
+All required code, schematics, and documentation are included in their respective folders.
+
+---
 
 
